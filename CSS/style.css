@@ -89,5 +89,15 @@ img{
     margin-right: 5%;
 }
 
+/*Banner*/
+.banner{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 3% 4%;
+    background: url(../IMG/PhotoGrid_Plus_1602040262667.png) no-repeat fixed;
+    height: 100%;
+}
+
 
 
